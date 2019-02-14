@@ -1,5 +1,5 @@
 # IDEA IntelliJ files
 /.idea
-mysparkproject.iml
+*.iml
 
 /target
